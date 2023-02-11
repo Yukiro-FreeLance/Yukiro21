@@ -16,7 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=Yukiro21&style=flat-square&color=blue" alt=""/>
 
 <h1>
- Hi! Good Day I'm Luche
+ Hi! Good Day!
+  
+  I'm Luche
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
